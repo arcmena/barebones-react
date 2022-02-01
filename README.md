@@ -10,6 +10,7 @@ This setup features:
 - Babel `For compilation`
 - Styled Components `For styling`
 - Jest / Testing Library `For testing`
+- Prettier / Eslint `For analyzing and enforcing code style`
 
 # Getting started
 
